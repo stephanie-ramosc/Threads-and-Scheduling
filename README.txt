@@ -19,8 +19,3 @@ dependiendo de cuántos móviles queramos ejecutar al mismo tiempo.
 
 El puerto del servidor debe ser el mismo en ambos comandos.
 El progrma se usa desde el terminal y se pone algo como scheduler.py 4096, luego crea los móviles con su ID y el servidor que se estén usando con el server port (localhost); algo como mobile.py 2 localhost 4096.
-
-Personas que me ayudaron con este proyecto:
-Carlos Díaz
-María Ramos
-Oniel
